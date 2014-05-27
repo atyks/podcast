@@ -1,1 +1,40 @@
-<?xml version='1.0' encoding='utf-8' standalone='no' ?><opml version="1.1"><head><title>Podcast Feeds</title><dateCreated>Mon, 26 May 2014 21:11:07 GMT+09:00</dateCreated><dateModified>Mon, 26 May 2014 21:11:07 GMT+09:00</dateModified></head><body><outline text="IT・テクノロジー"><outline text="T&amp;FのITニッチとーく" xmlUrl="http://tf109.net/it/rss.xml" type="rss" /><outline text="アキバ系!電脳空間カウボーイズ" xmlUrl="http://feeds.feedburner.com/weblogs/csc" type="rss" /><outline text="日刊徒然音声雑記" xmlUrl="http://admn.air-nifty.com/web_design/atom.xml" type="rss" /><outline text="電子雑誌「+81-8041483156（プラスハチイチ）」" xmlUrl="http://53rs.seesaa.net/index20.rdf" type="rss" /><outline text="mhattaのPodCast" xmlUrl="http://feeds.feedburner.com/mhattapod" type="rss" /><outline text="Rebuild" xmlUrl="http://feeds.rebuild.fm/rebuildfm" type="rss" /><outline text="AccSell -- Accessibility Central / ポッドキャスト" xmlUrl="http://accsell.net/podcast/index.xml" type="rss" /><outline text="Weekly eBook Strategy" xmlUrl="http://feeds.feedburner.com/WeeklyEbookStrategy" type="rss" /></outline><outline text="科学・技術"><outline text="ヴォイニッチの書棚" xmlUrl="http://www.c-radio.net/rss/voi-book.xml" type="rss" /><outline text="ヴォイニッチの科学書" xmlUrl="http://www.c-radio.net/rss/voynich.xml" type="rss" /></outline><outline text="ニュース・政治経済"><outline text="伊藤洋一のRound Up World Now!" xmlUrl="http://www.radionikkei.jp/podcasting/roundup.xml" type="rss" /><outline text="佐々木茂の独立しよう！" xmlUrl="http://www.c-radio.net/rss/sasaki.xml" type="rss" /><outline text="週刊 日経トレンディ" xmlUrl="http://trendy.nikkeibp.co.jp/rss/podcast/trendy.rdf" type="rss" /></outline><outline text="ラジオ・文化"><outline text="オンザウェイ・ジャーナル" xmlUrl="http://www2.jfn.co.jp/owj/podcast_owj.xml" type="rss" /><outline text="デイリーポータルZラジオ" xmlUrl="http://portal.nifty.com/cs/stream/podcast/1.xml" type="rss" /><outline text="ラジオ版　学問ノススメ　Special Edition" xmlUrl="http://www.jfn.co.jp/susume/podcast_susume.xml" type="rss" /><outline text="東北文化放送" xmlUrl="http://www.voiceblog.jp/seasidecity/rss2.0.xml" type="rss" /><outline text="文化系トークラジオ Life" xmlUrl="http://www.tbsradio.jp/life/rss.xml" type="rss" /><outline text="内田樹＆名越康文の 辺境ラジオ" xmlUrl="http://www.mbs1179.com/henkyo/rss.xml" type="rss" /><outline text="JUNK 伊集院光 深夜の馬鹿力" xmlUrl="http://www.tbsradio.jp/ijuin/rss.xml" type="rss" /><outline text="ラジカントロプス2.0 | AM1422kHz ラジオ日本" xmlUrl="http://feeds.feedburner.com/radican" type="rss" /></outline><outline text="Uncategorized" /></body></opml>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.1">
+  <head>
+    <title>Podcast Feeds</title>
+    <dateCreated>Mon, 26 May 2014 21:11:07 GMT+09:00</dateCreated>
+    <dateModified>Mon, 26 May 2014 21:11:07 GMT+09:00</dateModified>
+  </head>
+  <body>
+    <outline text="IT・テクノロジー">
+      <outline text="T&amp;FのITニッチとーく" xmlUrl="http://tf109.net/it/rss.xml" type="rss"/>
+      <outline text="アキバ系!電脳空間カウボーイズ" xmlUrl="http://feeds.feedburner.com/weblogs/csc" type="rss"/>
+      <outline text="日刊徒然音声雑記" xmlUrl="http://admn.air-nifty.com/web_design/atom.xml" type="rss"/>
+      <outline text="電子雑誌「+81-8041483156（プラスハチイチ）」" xmlUrl="http://53rs.seesaa.net/index20.rdf" type="rss"/>
+      <outline text="mhattaのPodCast" xmlUrl="http://feeds.feedburner.com/mhattapod" type="rss"/>
+      <outline text="Rebuild" xmlUrl="http://feeds.rebuild.fm/rebuildfm" type="rss"/>
+      <outline text="AccSell -- Accessibility Central / ポッドキャスト" xmlUrl="http://accsell.net/podcast/index.xml" type="rss"/>
+      <outline text="Weekly eBook Strategy" xmlUrl="http://feeds.feedburner.com/WeeklyEbookStrategy" type="rss"/>
+    </outline>
+    <outline text="科学・技術">
+      <outline text="ヴォイニッチの書棚" xmlUrl="http://www.c-radio.net/rss/voi-book.xml" type="rss"/>
+      <outline text="ヴォイニッチの科学書" xmlUrl="http://www.c-radio.net/rss/voynich.xml" type="rss"/>
+    </outline>
+    <outline text="ニュース・政治経済">
+      <outline text="伊藤洋一のRound Up World Now!" xmlUrl="http://www.radionikkei.jp/podcasting/roundup.xml" type="rss"/>
+      <outline text="佐々木茂の独立しよう！" xmlUrl="http://www.c-radio.net/rss/sasaki.xml" type="rss"/>
+      <outline text="週刊 日経トレンディ" xmlUrl="http://trendy.nikkeibp.co.jp/rss/podcast/trendy.rdf" type="rss"/>
+    </outline>
+    <outline text="ラジオ・文化">
+      <outline text="オンザウェイ・ジャーナル" xmlUrl="http://www2.jfn.co.jp/owj/podcast_owj.xml" type="rss"/>
+      <outline text="デイリーポータルZラジオ" xmlUrl="http://portal.nifty.com/cs/stream/podcast/1.xml" type="rss"/>
+      <outline text="ラジオ版　学問ノススメ　Special Edition" xmlUrl="http://www.jfn.co.jp/susume/podcast_susume.xml" type="rss"/>
+      <outline text="東北文化放送" xmlUrl="http://www.voiceblog.jp/seasidecity/rss2.0.xml" type="rss"/>
+      <outline text="文化系トークラジオ Life" xmlUrl="http://www.tbsradio.jp/life/rss.xml" type="rss"/>
+      <outline text="内田樹＆名越康文の 辺境ラジオ" xmlUrl="http://www.mbs1179.com/henkyo/rss.xml" type="rss"/>
+      <outline text="JUNK 伊集院光 深夜の馬鹿力" xmlUrl="http://www.tbsradio.jp/ijuin/rss.xml" type="rss"/>
+      <outline text="ラジカントロプス2.0 | AM1422kHz ラジオ日本" xmlUrl="http://feeds.feedburner.com/radican" type="rss"/>
+    </outline>
+    <outline text="Uncategorized"/>
+  </body>
+</opml>
